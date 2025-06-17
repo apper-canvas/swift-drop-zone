@@ -17,13 +17,12 @@ const Layout = () => {
               transition={{ duration: 0.3 }}
             >
               <div className="p-2 bg-gradient-to-br from-primary to-secondary rounded-lg">
-                <ApperIcon name="Upload" className="w-6 h-6 text-white" />
+<ApperIcon name="Upload" className="w-6 h-6 text-white" />
               </div>
               <h1 className="text-xl font-heading font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                Drop Zone
+                Rishabh
               </h1>
             </motion.div>
-            
             <motion.div 
               className="flex items-center space-x-4"
               initial={{ opacity: 0, x: 20 }}
