@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "name": "presentation-deck.pdf",
+    "size": 2048576,
+    "type": "application/pdf",
+    "status": "success",
+    "progress": 100,
+    "uploadSpeed": 0,
+    "thumbnailUrl": null,
+    "uploadedAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "marketing-banner.jpg",
+    "size": 1536000,
+    "type": "image/jpeg",
+    "status": "success",
+    "progress": 100,
+    "uploadSpeed": 0,
+    "thumbnailUrl": "/api/thumbnails/marketing-banner.jpg",
+    "uploadedAt": "2024-01-15T09:45:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "quarterly-report.xlsx",
+    "size": 4194304,
+    "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "status": "success",
+    "progress": 100,
+    "uploadSpeed": 0,
+    "thumbnailUrl": null,
+    "uploadedAt": "2024-01-15T08:20:00Z"
+  }
+]
